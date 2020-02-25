@@ -1,0 +1,102 @@
+2020-02-17 14:39:46,866 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-17 14:41:17,407 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\pom.xml
+2020-02-17 14:41:23,005 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:cleancode.simpleandcompoundinterest:0.0.1-SNAPSHOT @ D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\pom.xml.
+2020-02-17 14:41:24,325 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cleancode.simpleandcompoundinterest/src/main/java
+2020-02-17 14:41:24,338 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cleancode.simpleandcompoundinterest/src/test/java
+2020-02-17 14:41:25,981 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2020-02-17 14:41:26,880 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 14:41:26,880 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 14:41:26,884 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 14:41:26,884 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 14:41:37,070 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 14:41:37,070 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 14:41:37,072 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 14:41:37,072 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:05:15,473 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:05:15,473 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:05:15,475 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:05:15,475 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:13:08,650 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:13:08,651 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:13:08,655 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:13:08,656 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:15:18,525 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:15:18,525 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:15:18,527 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:15:18,527 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:15:21,583 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:15:21,584 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:15:21,586 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:15:21,587 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:17:23,532 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:17:23,532 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:17:23,535 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:17:23,536 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:17:48,537 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:17:48,537 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:17:48,540 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:17:48,540 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:22:20,671 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:22:20,672 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:22:20,674 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:22:20,674 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:23:21,723 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:23:21,724 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:23:21,727 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:23:21,728 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-17 15:23:43,708 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:23:43,709 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-17 15:23:43,713 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:23:43,714 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\simple and compound interest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:18:50,232 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-25 22:20:04,752 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:cleancode.simpleandcompoundinterest:0.0.1-SNAPSHOT @ D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\pom.xml.
+2020-02-25 22:20:05,348 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:05,348 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-25 22:20:05,350 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:05,351 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:20:06,306 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-25 22:20:06,826 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:cleancode.simpleandcompoundinterest:0.0.1-SNAPSHOT @ D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\pom.xml.
+2020-02-25 22:20:06,981 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cleancode.simpleandcompoundinterest/src/main/java
+2020-02-25 22:20:06,983 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cleancode.simpleandcompoundinterest/src/test/java
+2020-02-25 22:20:07,132 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-25 22:20:07,430 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:07,430 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-25 22:20:07,434 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:07,434 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:20:23,160 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:cleancode.simpleandcompoundinterest:0.0.1-SNAPSHOT @ D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\pom.xml.
+2020-02-25 22:20:23,315 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:23,315 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-25 22:20:23,317 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:23,318 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:20:24,487 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:24,487 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\main\resources
+2020-02-25 22:20:24,489 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:24,489 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:20:41,955 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:41,966 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-25 22:20:41,968 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:20:41,968 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:21:00,122 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:21:00,123 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-25 22:21:00,134 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:21:00,134 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:21:12,841 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:21:12,842 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-25 22:21:12,847 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:21:12,848 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:23:05,738 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:23:05,744 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-25 22:23:05,747 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:23:05,748 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:23:15,790 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:23:15,791 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-25 22:23:15,793 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:23:15,794 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:24:18,830 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:24:18,831 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-25 22:24:18,836 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:24:18,836 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
+2020-02-25 22:25:14,132 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:25:14,134 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-25 22:25:14,139 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-25 22:25:14,139 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\exceptionlogger\simpleandcompoundinterest\cleancode.simpleandcompoundinterest\src\test\resources
